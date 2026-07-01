@@ -3,6 +3,8 @@
 Classify Iris flowers (Setosa, Versicolor, Virginica) from sepal/petal measurements,
 with a full Streamlit frontend.
 
+https://janviiris.streamlit.app/
+
 ## Files
 - `Iris.csv` — dataset (150 rows, from Kaggle/UCI)
 - `train_model.py` — loads data, does EDA, trains Logistic Regression / KNN / Decision Tree,
